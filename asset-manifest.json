@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01dba574.css",
+    "main.js": "/static/js/main.bb75c293.js",
+    "static/js/496.b98ca61b.chunk.js": "/static/js/496.b98ca61b.chunk.js",
+    "static/media/menu guitar.jpg": "/static/media/menu guitar.0875c1cf4cb448c16df8.jpg",
+    "static/media/A-Chord.mp3": "/static/media/A-Chord.d8919a0ad3b460189249.mp3",
+    "static/media/F-Chord.mp3": "/static/media/F-Chord.33ac6d8f466edc7bffb2.mp3",
+    "static/media/E-Chord.mp3": "/static/media/E-Chord.ee4a2b8e96e048af9b49.mp3",
+    "static/media/Em-Chord.mp3": "/static/media/Em-Chord.26d15638ad09d7c2420c.mp3",
+    "static/media/Am-Chord.mp3": "/static/media/Am-Chord.980369c711c8227d7c65.mp3",
+    "static/media/Cm-Chord.mp3": "/static/media/Cm-Chord.d0a7e3b7388e9786b467.mp3",
+    "static/media/Bm-Chord.mp3": "/static/media/Bm-Chord.a7baa3d593c50a2dbd48.mp3",
+    "static/media/B-Chord.mp3": "/static/media/B-Chord.fe95d21c6d4e7e913797.mp3",
+    "static/media/D-Chord.mp3": "/static/media/D-Chord.cf0d871f68176f857f17.mp3",
+    "static/media/C-Chord.mp3": "/static/media/C-Chord.8e4dd98de3162591bb6c.mp3",
+    "static/media/Dm-Chord.mp3": "/static/media/Dm-Chord.939986fa8c19b1624fef.mp3",
+    "static/media/G-Chord.mp3": "/static/media/G-Chord.62292692f8aa24bb562c.mp3",
+    "static/media/Gm-Chord.mp3": "/static/media/Gm-Chord.39d3d261aac982d27725.mp3",
+    "static/media/acoustic guitar.jpg": "/static/media/acoustic guitar.77c57f4c7df3f7fd523d.jpg",
+    "static/media/Fm-Chord.mp3": "/static/media/Fm-Chord.096446a2dfdc8b021884.mp3",
+    "index.html": "/index.html",
+    "main.01dba574.css.map": "/static/css/main.01dba574.css.map",
+    "main.bb75c293.js.map": "/static/js/main.bb75c293.js.map",
+    "496.b98ca61b.chunk.js.map": "/static/js/496.b98ca61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01dba574.css",
+    "static/js/main.bb75c293.js"
+  ]
+}
